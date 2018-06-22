@@ -1,0 +1,5 @@
+#define RST_PIN  9    //Reset RFID
+#define SS_PIN  10   //SDA RFID
+#define TCAPTURA 3   //TIEMPO EN SEGUNDOS PARA CAPTURAR UNA BASE
+#define ACCURACY 1000  //Accuracy del RFID
+#define CMDBUFFER_SIZE 50

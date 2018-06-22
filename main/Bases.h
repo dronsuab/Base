@@ -1,0 +1,2 @@
+#define BASEID "base1"
+
